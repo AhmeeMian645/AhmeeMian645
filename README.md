@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @AhmeeMian645
-- 👀 I’m interested in Developing Softwares.
-- 🌱 I’m currently learning C# and PHP.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me By using My Email_id.
-- 😄 Pronouns: ...Ahmee
-- ⚡ Fun fact: ...Cricket fan..
+Hi, I’m Ahmad (Ahmee) 👋  
+🔐 Focus Areas:
+- IoT Security & Networking
+- Linux (Ubuntu Server, Kali)
+- MQTT, Docker, Suricata IDS/IPS
+- Basic AI/ML for security detection
 
-<!---
-AhmeeMian645/AhmeeMian645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧪 Current Work:
+- IoT Lab Environment (FYP)
+- Network traffic monitoring using Suricata
+- MQTT-based IoT device simulation
+- Learning AI-based intrusion detection
+- Weather-app with AI enhancing
+📜 Certifications:
+- Google Cybersecurity (Coursera)
+- Google IT Support
+- AI Essentials (Coursera)
+
+🎯 Goal:
+Build practical IoT & cybersecurity systems and document learning publicly.
+
+📫 Contact:
+moazzamshahid.rana@gmail.com
