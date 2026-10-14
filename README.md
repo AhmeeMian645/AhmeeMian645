@@ -15,7 +15,7 @@
 - 🕸️ [AI-Driven IoT Honeypot & Intrusion Detection System](https://github.com/AhmeeMian645/ai-driven-iot-honeypot-threat-detection-system) — Suricata + ML-based traffic classification (FYP)
 
 ## Background
-- 🎓 BS IT (CGPA 3.61/4.00)
+- 🎓 BS IT (CGPA 3.62/4.00)
 - ✅ Completed a 3-month Blue Team / SOC internship at Cyberster
 - 📜 Google Professional Certificates: Cybersecurity, IT Support, AI Essentials
 
